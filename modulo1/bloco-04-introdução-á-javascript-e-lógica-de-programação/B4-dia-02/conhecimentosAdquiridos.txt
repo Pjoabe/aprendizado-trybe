@@ -1,0 +1,2 @@
+Manipular arrays (listas).
+Utilizar o comando for/of.
